@@ -7,4 +7,4 @@ So, you want to be a programmer? I'll give you are stepping stone chest of secre
 
 I know learning how to program can be very intimidating and it's a norm for programmers to flaunt their vast number of programming languages...fear not young padawan! Chop down the work into small blocks and absorb them each at ago. Another nugget to programming would be to Do It Yourself. You have to try and fail, then try again, like riding a bike. Last thing I'll leave you with, get yourself as many resources for each programming language as you can, especially get the documentation to any language.
 
-Well, go forth and code. May the force force be with you!
+Well, go forth and code. May the force be with you!
