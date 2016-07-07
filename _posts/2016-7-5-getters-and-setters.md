@@ -17,4 +17,6 @@ private int bank_balance;
 ```
 This means if you withdraw money, the withdraw method will have to request for access to the value stored in ``` bank_balance ```.
 
-Key words 
+Key word ```get``` sort of fetches the value of the private method or variable in the case where the program wants to debit your account. The key word ```set``` will give it a new public value that can be manipulated for the function. 
+
+There is getters and setters dimistified!
