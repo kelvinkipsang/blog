@@ -10,3 +10,11 @@ private int example;
 //a private variable called example, which is an integer
 ```
 
+I'll take a test case of a bank account. No one wants their balance being seen by all and sundry, therefore being a private variable
+
+```java
+private int bank_balance;
+```
+This means if you withdraw money, the withdraw method will have to request for access to the value stored in ``` bank_balance ```.
+
+Key words 
