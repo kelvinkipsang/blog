@@ -30,4 +30,4 @@ I recommend you have a skeleton file structure somewhere in your computer which 
 
 ####Challenge:
 A good example to look at would be [this repository on github](https://github.com/tamzi/Yolby). Clone it and have a good look at it. 
-After that, try and make your own with working links and a skeleton index.html, if you come up with a file structure that throws the one in business out of the water, please, spread the word!
+After that, try and make your own with working links and a skeleton index.html. Aren't rules meant to broken, so if you come up with a file structure that throws the one in business out of the water, please, spread the word!
