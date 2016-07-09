@@ -24,3 +24,10 @@ I'll make it a little visual for you
              img2.jpg
              img3.jpg
 ```
+We have the parent folder that has the html files, the CSS, Javascript and images folders. Then each folder has the type of files that its name states. This might change, mainly in the case of a web app but we'll get there young padawan.
+
+I recommend you have a skeleton file structure somewhere in your computer which you just yank out every time you have a new html project. It might save you time. 
+
+####Challenge:
+A good example to look at would be [this repository on github](https://github.com/tamzi/Yolby). Clone it and have a good look at it. 
+After that, try and make your own with working links and a skeleton index.html, if you come up with a file structure that throws the one in business out of the water, please, spread the word!
