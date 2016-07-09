@@ -10,8 +10,8 @@ Learning how to program can be very intimidating and it's a norm for programmers
 Challenge yourself. If you go for the famous **Hello World**, make sure you can get a user's name like so:
 
 ```
-hello <user's name>,
-Welcome to Hello, World!
+        hello <user's name>,
+        Welcome to Hello, World!
 ```
 
 Well, go forth and code. May the force be with you!
