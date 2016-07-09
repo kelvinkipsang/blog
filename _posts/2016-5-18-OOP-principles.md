@@ -38,3 +38,12 @@ Polymorphism means one name, many forms. Polymorphism manifests itself by having
 There are 2 basic types of polymorphism.
 Overridding, also called run-time polymorphism. For method overloading, the compiler determines which method will be executed, and this decision is made when the code gets compiled.
 Overloading, which is referred to as compile-time polymorphism. Method will be used for method overriding is determined at runtime based on the dynamic type of an object.
+
+If you can grasp these four principles, OOP can be much of a breeze for you. It might take more than one read, I encourage you to practically try it.
+
+####Challenge:
+
+Remember our car object from my previous post? See if you can make a class **Ford** that inherits from the car class. Try to find out which key world you use to inherit.
+
+
+Yup that's the code calling to you!
