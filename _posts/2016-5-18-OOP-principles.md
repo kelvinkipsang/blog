@@ -5,7 +5,7 @@ title: The Four Principles of OOP.
 
 Dimistifying Object Oriented Programming is not easy at first, but re-read this article a few times and you'll rank up. I'm going to give you some insight into the four principles of Object Oriented Programming: 
 
-## 1. Encapsulation:
+### 1. Encapsulation:
 Encapsulation means that the internal representation of an object is generally hidden from view outside of the object’s definition. Typically, only the object’s own methods can directly inspect or manipulate its fields.
 
 Encapsulation is the hiding of data implementation by restricting access to accessors and mutators.
@@ -18,21 +18,21 @@ Hiding the internals of the object protects its integrity by preventing users fr
 
 A benefit of encapsulation is that it can reduce system complexity.
 
-## 2. Abstraction
+### 2. Abstraction
 Data abstraction and encapuslation are closely tied together, because a simple definition of data abstraction is the development of classes, objects, types in terms of their interfaces and functionality, instead of their implementation details. Abstraction denotes a model, a view, or some other focused representation for an actual item.
 
 “An abstraction denotes the essential characteristics of an object that distinguish it from all other kinds of object and thus provide crisply defined conceptual boundaries, relative to the perspective of the viewer.” — G. Booch
 
 In short, data abstraction is nothing more than the implementation of an object that contains the same essential properties and actions we can find in the original object we are representing.
 
-## 3. Inheritance
+### 3. Inheritance
 Inheritance is a way to reuse code of existing objects, or to establish a subtype from an existing object, or both, depending upon programming language support. In classical inheritance where objects are defined by classes, classes can inherit attributes and behavior from pre-existing classes called base classes, superclasses, parent classes or ancestor classes. The resulting classes are known as derived classes, subclasses or child classes. The relationships of classes through inheritance gives rise to a hierarchy.
 
 Subclasses and Superclasses
 A subclass is a modular, derivative class that inherits one or more properties from another class (called the superclass). The properties commonly include class data variables, properties, and methods or functions. The superclass establishes a common interface and foundational functionality, which specialized subclasses can inherit, modify, and supplement. The software inherited by a subclass is considered reused in the subclass.
 In some cases, a subclass may customize or redefine a method inherited from the superclass. A superclass method which can be redefined in this way is called a virtual method.
 
-## 4. Polymorphism
+### 4. Polymorphism
 Polymorphism means one name, many forms. Polymorphism manifests itself by having multiple methods all with the same name, but slightly different functionality.
 
 There are 2 basic types of polymorphism.
