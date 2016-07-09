@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Four Principles of OOP
+title: The Four Principles of OOP.
 ---
 
 Dimistifying Object Oriented Programming is not easy at first, but re-read this article a few times and you'll rank up. I'm going to give you some insight into the four principles of Object Oriented Programming: 
