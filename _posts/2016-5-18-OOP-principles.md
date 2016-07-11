@@ -41,7 +41,7 @@ Overloading, which is referred to as compile-time polymorphism. Method will be u
 
 If you can grasp these four principles, OOP can be much of a breeze for you. It might take more than one read, I encourage you to practically try it.
 
-####Challenge:
+#### Challenge:
 
 Remember our car object from my previous post? See if you can make a class **Ford** that inherits from the car class. Try to find out which key world you use to inherit.
 
