@@ -26,3 +26,5 @@ public int getbankBal(){
     return bankBal;
 }
 ```
+
+Use this two for sensiteve data in your program. It's like magic as always!
