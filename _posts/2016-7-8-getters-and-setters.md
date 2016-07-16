@@ -17,7 +17,12 @@ Let's make it a little visual...
 
 ```java
 //this is how a set method would look like
-public void set //variable name(){
-    set//variablename();
+public void setbankBal(){
+    setbankBal();
+}
+
+//as for get method, it comes with a return type
+public int getbankBal(){
+    return bankBal;
 }
 ```
