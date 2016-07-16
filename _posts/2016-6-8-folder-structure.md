@@ -23,6 +23,8 @@ I'll make it a little visual for you
         *img>img1.jpg
              img2.jpg
              img3.jpg
+             
+        * denotes a directory
 ```
 We have the parent folder that has the html files, the CSS, Javascript and images folders. Then each folder has the type of files that its name states. This might change, mainly in the case of a web app but we'll get there young padawan.
 
