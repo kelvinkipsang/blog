@@ -28,3 +28,7 @@ public int getbankBal(){
 ```
 
 Use this two for sensiteve data in your program. It's like magic, as always!
+
+#### Challange:
+
+Try and make a banking system that doesn't show your balance, but can debit and credit your account.
