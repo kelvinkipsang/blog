@@ -13,4 +13,4 @@ I beg you fellow syntax-heads, come over to the light side. Have some version co
 
 #### Challenge:
 
-Head over to [Github](https://github.com/) and try to hack their "Hello world" 
+Head over to [Github](https://github.com/) and try to hack their "Hello world" repository. From then on, run away with version control!
