@@ -8,7 +8,7 @@ From the mind that will probably bring iron man to life with a touch of the Repu
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Design, art, a dash of humor, building a whole lot of stuff and probably a myriad of other things, maketh Andrew. The mind of a student of life.
 
 ### Contact me
 
