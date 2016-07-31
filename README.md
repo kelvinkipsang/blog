@@ -6,4 +6,4 @@
 This is my personal blog
 
 ### Tools Used
-Jekyll for blogs
+* Jekyll for blogs
