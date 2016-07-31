@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+From the mind that will probably bring iron man to life with a touch of the Republic of Jedis.
 
 ### More Information
 
