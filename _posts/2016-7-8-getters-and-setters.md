@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let's Go Fishing.
+title: Let's go fishing.
 ---
 
 Private variables...we need 'em. Case in point, your bank balance in your bank's system might look something like this

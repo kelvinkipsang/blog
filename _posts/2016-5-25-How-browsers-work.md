@@ -1,4 +1,4 @@
 ---
 layout: post
-title: X-raying Browsers.
+title: X-raying browsers.
 ---

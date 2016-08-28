@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Building Blocks.
+title: Building blocks.
 ---
 
 Hold on to your trousers, today I plan on being a little pedantic, but in retrospect...what is programming if not codes with an overload of pedantry.
