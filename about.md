@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
 From the mind that will probably bring iron man to life with a touch of the Republic of Jedis.
