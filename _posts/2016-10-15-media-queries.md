@@ -11,6 +11,6 @@ You had to scroll for miles before you could click the “add to cart” button 
 
 So then, welcome everyone to media queries. They help you style your content rendering to adapt to certain conditions such as orientation, device, width and much more. That kind of power is lethal, you can design such aesthetic sites using this rules, and much more importantly...sites that can scale.
 
-Now, the trick here comes when you need a jQuery or javascript function to work when a certain media query is true. That’s the big boys club, but I’ll give you a free ticket in. You can store your media query in a variable using the ```javascript window.matchMedia()``` function and add some logic to your fancy.
+Now, the trick here comes when you need a jQuery or javascript function to work when a certain media query is true. That’s the big boys club, but I’ll give you a free ticket in. You can store your media query in a variable using the ```window.matchMedia()``` function and add some logic to your fancy.
 
 I know...mind-juggling, go out there and create more adaptive, responsive and beautiful sites with this, the code is ever in your favour but for the ```;```...I’m not too sure.
